@@ -1,19 +1,35 @@
-color0   #242830  
+foreground            #e4f0fb
+background            #1a1b26
+selection_foreground  #1a1b26
+selection_background  #f9cc6c
+url_color             #78dce8
+cursor #e4f0fb
+cursor_text_color #2d2a2e
 
-# Red
-color1   #FF6188  
+# black
+color0   #19181a
+color8   #19181a
 
-# Red
-color2   #adda78  
+# red
+color1   #fd6883
+color9   #fd6883
 
-# Yellow
-color3   #f9cc6c  
+# green
+color2   #adda78
+color10  #adda78
 
-# Aqua
-color4   #85dacc
+# yellow
+color3   #f9cc6c
+color11  #f9cc6c
 
-# White
-color7   #b4bac3  
+# blue
+color4  #85dacc
+color12 #85dacc
 
-background  #1a1b26
-foreground  #fff1f3  
+# magenta
+color5   #ff6188
+color13  #ff6188
+
+# white
+color7   #e4f0fb
+color15  #e4f0fb
